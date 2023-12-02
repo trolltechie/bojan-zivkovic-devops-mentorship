@@ -1,4 +1,5 @@
 Homework for week-7:
+
     1) As IAM User1, create resource under `eu-central-1` region,
     2) Every AWS resource created needs to have, besides `Name` tag, `CreatedBy: name and last name` and `Email: user@email.com` tags,
     3) Update IAM user account with adding MFA device
